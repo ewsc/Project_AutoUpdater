@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/12/14 00:10:43.053,=C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/14 00:15:46.758,C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\AutoUpdater.dproj=C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2022/12/14 00:15:56.354,C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\AutoUpdater.pas=C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/14 00:15:56.354,C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\AutoUpdater.dfm=C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/12/14 00:16:06.547,X:\Pesonal\Projects\AutoUpdater\AutoUpdater.pas=C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\AutoUpdater.pas</Transaction>
+    <Transaction>2022/12/14 00:16:06.547,X:\Pesonal\Projects\AutoUpdater\AutoUpdater.dfm=C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\AutoUpdater.dfm</Transaction>
+    <Transaction>2022/12/14 00:16:29.758,X:\Pesonal\Projects\AutoUpdater\UAutoUpdater.dfm=X:\Pesonal\Projects\AutoUpdater\AutoUpdater.dfm</Transaction>
+    <Transaction>2022/12/14 00:16:29.758,X:\Pesonal\Projects\AutoUpdater\UAutoUpdater.pas=X:\Pesonal\Projects\AutoUpdater\AutoUpdater.pas</Transaction>
+    <Transaction>2022/12/14 00:30:43.979,X:\Pesonal\Projects\AutoUpdater\AutoUpdater.dproj=C:\Users\alamo\OneDrive\Documents\Embarcadero\Studio\Projects\AutoUpdater.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

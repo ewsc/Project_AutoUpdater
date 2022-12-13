@@ -5176,6 +5176,7 @@ object MainForm: TMainForm
     Height = 25
     Caption = 'Stop'
     TabOrder = 1
+    OnClick = StopClick
   end
   object Interval: TSpinEdit
     Left = 16
@@ -5190,6 +5191,7 @@ object MainForm: TMainForm
   end
   object Timer: TTimer
     Enabled = False
+    OnTimer = TimerTimer
     Left = 280
     Top = 8
   end
