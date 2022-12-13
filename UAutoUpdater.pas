@@ -4,11 +4,16 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls,
+  Vcl.Samples.Spin;
 
 type
-  TForm1 = class(TForm)
+  TMainForm = class(TForm)
     Start: TButton;
+    Stop: TButton;
+    Timer: TTimer;
+    Interval: TSpinEdit;
+    MainLabel: TLabel;
     procedure StartClick(Sender: TObject);
   private
     { Private declarations }
@@ -17,13 +22,13 @@ type
   end;
 
 var
-  Form1: TForm1;
+  MainForm: TMainForm;
 
 implementation
 
 {$R *.dfm}
 
-Procedure TForm1.StartClick(Sender: TObject);
+Procedure TMainForm.StartClick(Sender: TObject);
 Begin
   While True do
   Begin
