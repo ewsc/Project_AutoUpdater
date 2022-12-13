@@ -1,3 +1,2 @@
 * linguist-vendored
 *.pas linguist-vendored=false
-*.dfm linguist-vendored=false
